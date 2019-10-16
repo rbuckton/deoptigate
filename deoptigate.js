@@ -267,4 +267,5 @@ function deoptigate(groupedByFile) {
 module.exports = {
     processLogContent
   , deoptigate
+  , DeoptProcessor
 }
